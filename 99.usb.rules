@@ -1,0 +1,2 @@
+SUBSYSTEM=="usb", OWNER="root", GROUP="wheel"
+
