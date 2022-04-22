@@ -1,7 +1,7 @@
 # Chai
 Chai is a low level library `libchai.so` that provides a set of functions to communicate to devices attached to CAN bus. For details see
-- doc/CHAI-Programming-Guide.pdf
-- doc/CHAI-User-Guide.pdf
+- [doc/CHAI-Programming-Guide.pdf](doc/CHAI-Programming-Guide.pdf)
+- [doc/CHAI-User-Guide.pdf](doc/CHAI-User-Guide.pdf)
 
 ## Build and install
 To build the Chai library use the command
